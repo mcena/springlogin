@@ -1,1 +1,1 @@
-# stocks-api
+# Simple spring boot login
